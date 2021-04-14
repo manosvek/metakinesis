@@ -3,6 +3,8 @@
 
 A **Viber bot** designed to help people in Greece send the required message to go out during Covid-19 measures. This project was developed in Typescript using NodeJS viber-bot package.
 
+**\*Disclaimer:\*** Do not show the message from this bot to any authority check, it holds no real life value. Send to 13033 instead.
+
 <!-- toc -->
 * [Usage](#usage)
 * [Setup](#setup)
