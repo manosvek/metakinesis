@@ -13,7 +13,7 @@ A **Viber bot** designed to help people in Greece send the required message to g
 <!-- usage -->
 The bot prompts the user for all required information and displays final message along with latest information of daily Covid-19 cases in Greece. Cases numbers were pooled from [Coronavirus Greece API](https://covid-19-greece.herokuapp.com) developed by volunteers of [COVID-19 Response Greece](https://www.covid19response.gr/index_en.html).
 
-<img src="./media/viber-bot.gif" height="480">
+<img src="./media/viber-bot.gif" height="600">
 <!-- usagestop -->
 
 
